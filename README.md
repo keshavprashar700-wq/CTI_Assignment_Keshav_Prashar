@@ -1,11 +1,12 @@
 # CTI_Assignment_Keshav_Prashar
 
 Task 3: Extract Diamond Model Elements
-Vertex	Information
-Adversary	AeroBlade
-Infrastructure	During the 2022–2023 campaigns, AeroBlade used a C2 infrastructure. Anonymous domains and IPs accessed over port 443 are two examples. "Network Infrastructure: C2 server on port 443" is evidence.
-Capability	Weaponized Word documents, remote template injection (T1221), VBA macros, DLL reverse shell, anti-disassembly, API hashing, anti-sandbox checks, AES-encrypted static configuration, and persistence via Task Scheduler are just a few of the advanced techniques used by AeroBlade. Proof: "A DLL that functions as a reverse shell is the ultimate payload. Strongly encoded, anti-disassembly, encrypted static setup perseverance via Task Scheduler."
-Victim	The primary victim is the U.S. aerospace industry, specifically one aerospace company in the United States. Evidence: “targeting an aerospace industry company in the U.S.” and “Targets: Aerospace industry in the United States.”
+
+Vertex               	Information
+Adversary           	AeroBlade
+Infrastructure	      During the 2022–2023 campaigns, AeroBlade used a C2 infrastructure. Anonymous domains and IPs accessed over port 443 are two examples. "Network Infrastructure: C2 server on port 443" is evidence.
+Capability	          Weaponized Word documents, remote template injection (T1221), VBA macros, DLL reverse shell, anti-disassembly, API hashing, anti-sandbox checks, AES-encrypted static configuration, and persistence via Task Scheduler are just a few of the advanced techniques used by AeroBlade. Proof: "A DLL that functions as a reverse shell is the ultimate payload. Strongly encoded, anti-disassembly, encrypted static setup perseverance via Task Scheduler."
+Victim	             The primary victim is the U.S. aerospace industry, specifically one aerospace company in the United States. Evidence: “targeting an aerospace industry company in the U.S.” and “Targets: Aerospace industry in the United States.”
 
 Task 5: Threat Actor Profile Summary
 AeroBlade Threat Actor – Profile Summary
